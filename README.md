@@ -3,7 +3,6 @@
     <a herf="https://github.com/EleKrimas/tover4/network/members"> <img src="https://img.shields.io/github/forks/EleKrimas/tover4?color=blue&logo=github&style=flat-square"></a>
     <a herf="https://github.com/EleKrimas/tover4/stargazers"> <img src="https://img.shields.io/github/stars/EleKrimas/tover4?logo=github&style=flat-square"></a>
     <a herf="https://github.com/EleKrimas/tover4/blob/master/LICENSE"> <img src="https://img.shields.io/github/license/EleKrimas/tover4?color=green&logo=github&style=flat-square"></a>
-    <a herf="https://github.com/EleKrimas/tover4/actions/workflows/TestRunner.yml"> <img src="https://img.shields.io/github/workflow/status/dtolnay/inventory/CI/master?logo=github&style=flat-square""></a>
 </div><br>
 
 一个为tover 4整合包而创建的库
